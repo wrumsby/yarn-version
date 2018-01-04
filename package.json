@@ -1,0 +1,14 @@
+{
+  "name": "yarn-version",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.9.3"
+  },
+  "description": "Project to demonstrate Yarn version check bug",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "private": true
+}
