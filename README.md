@@ -1,6 +1,6 @@
 # yarn-version
 
-This repository exists to demonstrate what appears to be a bug in [Yarn](https://yarnpkg.com/en/) 1.3.2.
+This repository exists to demonstrate what appears to be [a bug](https://github.com/yarnpkg/yarn/issues/5159) in [Yarn](https://yarnpkg.com/en/) 1.3.2.
 
 Given:
 
