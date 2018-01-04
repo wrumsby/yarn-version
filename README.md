@@ -72,5 +72,6 @@ Run:
 
 No error.
 
+Somehow Yarn on Windows doesn't think `'8.9.3' === '8.9.3'`.
   
   
